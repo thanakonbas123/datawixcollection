@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav li {
+    display: inline-block;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .upload-csv {
+    margin: 20px;
+  }
+  
+  .upload-csv h2 {
+    text-align: center;
+  }
+  
+  .upload-csv form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .upload-csv label {
+    margin-bottom: 5px;
+  }
+  
+  .upload-csv button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .user-data {
+    margin: 20px;
+  }
+  
+  .user-data h2 {
+    text-align: center;
+  }
+  
+  .user-data table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .user-data th,
+  .user-data td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .user-data th {
+    text-align: left;
+  }
+  
+  footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
