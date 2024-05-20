@@ -66,7 +66,7 @@
             h2 {
                 font-family: Arial, sans-serif;
                 font-weight: bold;
-            }}
+            }
 
         
     </style>
